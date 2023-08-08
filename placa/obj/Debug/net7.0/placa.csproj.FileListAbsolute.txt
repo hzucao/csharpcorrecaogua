@@ -1,0 +1,15 @@
+C:\dev-ata\preaula\placa\bin\Debug\net7.0\placa.exe
+C:\dev-ata\preaula\placa\bin\Debug\net7.0\placa.deps.json
+C:\dev-ata\preaula\placa\bin\Debug\net7.0\placa.runtimeconfig.json
+C:\dev-ata\preaula\placa\bin\Debug\net7.0\placa.dll
+C:\dev-ata\preaula\placa\bin\Debug\net7.0\placa.pdb
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.csproj.AssemblyReference.cache
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.AssemblyInfoInputs.cache
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.AssemblyInfo.cs
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.csproj.CoreCompileInputs.cache
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.dll
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\refint\placa.dll
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.pdb
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\placa.genruntimeconfig.cache
+C:\dev-ata\preaula\placa\obj\Debug\net7.0\ref\placa.dll
