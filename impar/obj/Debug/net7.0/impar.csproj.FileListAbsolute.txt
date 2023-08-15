@@ -1,0 +1,15 @@
+C:\dev-ata\atividades\impar\bin\Debug\net7.0\impar.exe
+C:\dev-ata\atividades\impar\bin\Debug\net7.0\impar.deps.json
+C:\dev-ata\atividades\impar\bin\Debug\net7.0\impar.runtimeconfig.json
+C:\dev-ata\atividades\impar\bin\Debug\net7.0\impar.dll
+C:\dev-ata\atividades\impar\bin\Debug\net7.0\impar.pdb
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.csproj.AssemblyReference.cache
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.AssemblyInfoInputs.cache
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.AssemblyInfo.cs
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.csproj.CoreCompileInputs.cache
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.dll
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\refint\impar.dll
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.pdb
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\impar.genruntimeconfig.cache
+C:\dev-ata\atividades\impar\obj\Debug\net7.0\ref\impar.dll

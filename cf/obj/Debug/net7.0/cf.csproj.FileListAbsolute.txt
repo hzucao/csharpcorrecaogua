@@ -1,0 +1,15 @@
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.csproj.AssemblyReference.cache
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.AssemblyInfoInputs.cache
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.AssemblyInfo.cs
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.csproj.CoreCompileInputs.cache
+C:\dev-ata\atividades\cf\bin\Debug\net7.0\cf.exe
+C:\dev-ata\atividades\cf\bin\Debug\net7.0\cf.deps.json
+C:\dev-ata\atividades\cf\bin\Debug\net7.0\cf.runtimeconfig.json
+C:\dev-ata\atividades\cf\bin\Debug\net7.0\cf.dll
+C:\dev-ata\atividades\cf\bin\Debug\net7.0\cf.pdb
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.dll
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\refint\cf.dll
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.pdb
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\cf.genruntimeconfig.cache
+C:\dev-ata\atividades\cf\obj\Debug\net7.0\ref\cf.dll
