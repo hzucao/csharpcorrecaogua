@@ -1,0 +1,15 @@
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.csproj.AssemblyReference.cache
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.AssemblyInfoInputs.cache
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.AssemblyInfo.cs
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.csproj.CoreCompileInputs.cache
+C:\dev\exercicioc\animal\bin\Debug\net7.0\animal.exe
+C:\dev\exercicioc\animal\bin\Debug\net7.0\animal.deps.json
+C:\dev\exercicioc\animal\bin\Debug\net7.0\animal.runtimeconfig.json
+C:\dev\exercicioc\animal\bin\Debug\net7.0\animal.dll
+C:\dev\exercicioc\animal\bin\Debug\net7.0\animal.pdb
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.dll
+C:\dev\exercicioc\animal\obj\Debug\net7.0\refint\animal.dll
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.pdb
+C:\dev\exercicioc\animal\obj\Debug\net7.0\animal.genruntimeconfig.cache
+C:\dev\exercicioc\animal\obj\Debug\net7.0\ref\animal.dll

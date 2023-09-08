@@ -1,0 +1,15 @@
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.csproj.AssemblyReference.cache
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.AssemblyInfoInputs.cache
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.AssemblyInfo.cs
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.csproj.CoreCompileInputs.cache
+C:\dev\atividade\redesocial\bin\Debug\net7.0\redesocial.exe
+C:\dev\atividade\redesocial\bin\Debug\net7.0\redesocial.deps.json
+C:\dev\atividade\redesocial\bin\Debug\net7.0\redesocial.runtimeconfig.json
+C:\dev\atividade\redesocial\bin\Debug\net7.0\redesocial.dll
+C:\dev\atividade\redesocial\bin\Debug\net7.0\redesocial.pdb
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.dll
+C:\dev\atividade\redesocial\obj\Debug\net7.0\refint\redesocial.dll
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.pdb
+C:\dev\atividade\redesocial\obj\Debug\net7.0\redesocial.genruntimeconfig.cache
+C:\dev\atividade\redesocial\obj\Debug\net7.0\ref\redesocial.dll
